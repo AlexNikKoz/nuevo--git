@@ -1,6 +1,6 @@
-Hello World!;
-Мы прорвемся!;
-print'??????';
-malo feo;
+Hello World!;111
+Мы прорвемся!;111
+print'??????';111
+malo feo;111
 Soy ruso y tu?;
 Soy de Moscu.
