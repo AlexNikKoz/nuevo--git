@@ -1,2 +1,2 @@
-Hello World!
-Мы прорвемся!
+Hello World!;
+Мы прорвемся!;
