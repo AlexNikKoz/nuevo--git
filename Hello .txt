@@ -2,3 +2,4 @@ Hello World!;
 Мы прорвемся!;
 print'??????';
 malo feo;
+Soy ruso y tu?;
